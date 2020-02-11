@@ -1,0 +1,9 @@
+#yarn Integrity tile
+.yarn=integrity
+
+# dotenv environment variables file
+.environment
+dist
+/node_modules
+/yarn-error.log
+/yarn.lock
