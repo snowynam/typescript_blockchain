@@ -1,6 +1,7 @@
 //TSLint < -extension
 
-//tsc-watch
+
+//tsc-watch : yarn start를 계속 해주지 않아도 파일 수정 후 저장시 자동으로 컴파일됨.
 //yarn add tsc-watch --dev
 
 //tsc-watch error
