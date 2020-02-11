@@ -1,0 +1,12 @@
+//TSLint < -extension
+
+//tsc-watch
+//yarn add tsc-watch --dev
+
+//tsc-watch error
+// Cannot find module 'typescript/bin/tsc'
+// Require stack:
+// - D:\work\typescript_nomad\node_modules\tsc-watch\lib\tsc-watch.js
+// - D:\work\typescript_nomad\node_modules\tsc-watch\index.js
+// error Command failed with exit code 9.
+// => yarn add typescript
